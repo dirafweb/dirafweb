@@ -1,0 +1,37 @@
+# Farid Enrique Jiménez Campo — Xentris Tech
+
+> AI Engineer, Data Scientist y Full Stack Developer basado en Barranquilla, Colombia.
+> Diseña e implanta sistemas de IA aplicada para empresas: integración de LLMs, agentes
+> autónomos, RAG, modelos predictivos y automatización de procesos. Fundador de Xentris
+> Tech (XENTRIS LLC). Trabaja en remoto para clientes de LATAM y Estados Unidos, en
+> español e inglés.
+
+## Quién es
+
+- [Portafolio y contacto](https://farid.com.co): quién es Farid Jiménez, qué servicios ofrece y cómo contratarlo. Incluye un asistente de IA en vivo.
+- [Perfil de GitHub](https://github.com/dirafweb): proyectos públicos, stack y un asistente que responde preguntas sobre su experiencia.
+- [LinkedIn](https://www.linkedin.com/in/farideathan/): trayectoria profesional y credenciales verificadas.
+- [Hugging Face](https://huggingface.co/dirafweb): trabajo con modelos abiertos.
+
+## Qué hace
+
+- **IA aplicada**: integración de LLMs (Claude, Gemini, Llama, Mistral), agentes autónomos, RAG y chatbots con contexto de negocio.
+- **Data Science**: modelado predictivo, análisis exploratorio y dashboards de decisión.
+- **Automatización**: pipelines end-to-end con LangChain, Make y n8n que eliminan trabajo manual.
+- **Full Stack**: producto completo en Next.js, React, TypeScript y Prisma, desplegado con Docker, Caddy y GitHub Actions.
+
+## Proyectos
+
+- [farid.com.co](https://farid.com.co): su portafolio, con asistente de IA en vivo. Next.js 16, React 19, Prisma y OpenAI.
+- [Xentris Tech](https://github.com/xentristech): automatización con IA y desarrollo de GPTs a medida para empresas.
+- [claude-skills](https://github.com/xentristech/claude-skills): colección pública de Agent Skills reutilizables para SEO con IA, despliegue en VPS y automatización de infraestructura.
+- [carta-viva](https://github.com/dirafweb/carta-viva): carta natal interpretada por IA con chat de autoconocimiento.
+- Platim.co: plataforma de producto con IA integrada.
+- Yota Montacargas: digitalización y automatización para operación de montacargas.
+
+## Contacto
+
+- Email: info@farid.com.co
+- Web: https://farid.com.co
+- Ubicación: Barranquilla, Colombia (trabaja en remoto)
+- Idiomas: español e inglés

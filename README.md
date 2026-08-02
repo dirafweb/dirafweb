@@ -13,6 +13,8 @@
 
 ## Sobre mí · About
 
+**Soy Farid Enrique Jiménez Campo, AI Engineer, Data Scientist y Full Stack Developer en Barranquilla, Colombia.** Integro LLMs, agentes autónomos y RAG en productos de negocio, y automatizo procesos con LangChain, Make y n8n. Trabajo en remoto para clientes de LATAM y Estados Unidos, en español e inglés.
+
 Diseño sistemas donde el dato deja de dormir en una tabla y empieza a tomar decisiones.
 Mi trabajo vive en la intersección de tres cosas: **modelos que entienden**, **automatizaciones que ejecutan** e **interfaces que la gente realmente usa**.
 
@@ -109,6 +111,37 @@ Organizado por capa, no por moda.
 
 > [!NOTE]
 > No colecciono logos. Cada herramienta de esta tabla está en producción en algo que mantengo.
+
+</details>
+
+<details>
+<summary><strong>Preguntas frecuentes · FAQ</strong></summary>
+
+<br>
+
+### ¿Quién es Farid Jiménez?
+
+Farid Enrique Jiménez Campo es AI Engineer, Data Scientist y Full Stack Developer, radicado en Barranquilla, Colombia. Es el fundador de Xentris Tech (XENTRIS LLC), desde donde entrega soluciones de inteligencia artificial aplicada a empresas de logística, fintech, salud y comercio.
+
+### ¿Qué servicios ofrece Farid Jiménez?
+
+Farid Jiménez ofrece cuatro líneas de trabajo: integración de LLMs y agentes autónomos en productos de negocio; modelado predictivo y análisis de datos; automatización de procesos con pipelines end-to-end; y desarrollo full stack de producto, desde el esquema de base de datos hasta el despliegue con HTTPS.
+
+### ¿Con qué modelos y tecnologías trabaja?
+
+Farid Jiménez trabaja con Claude, Gemini, Llama, Mistral y modelos de Hugging Face, orquestados con LangChain, Make y n8n. En machine learning usa PyTorch, TensorFlow y scikit-learn. Para producto usa Next.js, React, TypeScript, Tailwind y Prisma, desplegado con Docker, Caddy y GitHub Actions.
+
+### ¿Trabaja en remoto para clientes fuera de Colombia?
+
+Sí. Farid Jiménez trabaja en remoto desde Barranquilla, Colombia, para clientes de Latinoamérica y Estados Unidos, en español e inglés. Su empresa, XENTRIS LLC, está registrada en Nueva York.
+
+### ¿Qué es Xentris Tech?
+
+Xentris Tech (XENTRIS LLC) es la empresa fundada por Farid Jiménez. Se especializa en automatización con inteligencia artificial, desarrollo de GPTs a medida y soluciones inteligentes para empresas de distintos sectores.
+
+### ¿Cómo se contacta a Farid Jiménez?
+
+Se le puede contactar por correo en info@farid.com.co, a través de su web https://farid.com.co, o en LinkedIn en https://www.linkedin.com/in/farideathan/. También responde preguntas mediante el asistente de IA de este perfil de GitHub.
 
 </details>
 

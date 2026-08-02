@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://farid.com.co/#farid",
+  "name": "Farid Enrique Jiménez Campo",
+  "alternateName": ["Farid Jiménez", "Eathan Jiménez"],
+  "jobTitle": "AI Engineer, Data Scientist y Full Stack Developer",
+  "description": "AI Engineer y Data Scientist en Barranquilla, Colombia. Integra LLMs, agentes autónomos y RAG en productos de negocio, y automatiza procesos con LangChain, Make y n8n. Fundador de Xentris Tech.",
+  "url": "https://farid.com.co",
+  "email": "mailto:info@farid.com.co",
+  "image": "https://farid.com.co/farid.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Barranquilla",
+    "addressRegion": "Atlántico",
+    "addressCountry": "CO"
+  },
+  "knowsLanguage": [
+    { "@type": "Language", "name": "Spanish", "alternateName": "es" },
+    { "@type": "Language", "name": "English", "alternateName": "en" }
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://farid.com.co/#xentris",
+    "name": "Xentris Tech",
+    "legalName": "XENTRIS LLC",
+    "url": "https://xentris.tech",
+    "sameAs": ["https://github.com/xentristech"],
+    "description": "Automatización con IA, desarrollo de GPTs a medida y soluciones inteligentes para empresas en logística, fintech, salud y comercio."
+  },
+  "knowsAbout": [
+    "Inteligencia artificial aplicada",
+    "Large Language Models",
+    "Retrieval-Augmented Generation",
+    "Agentes autónomos",
+    "Machine Learning",
+    "Data Science",
+    "Automatización de procesos",
+    "LangChain",
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Prisma",
+    "Docker",
+    "GitHub Actions"
+  ],
+  "sameAs": [
+    "https://github.com/dirafweb",
+    "https://github.com/xentristech",
+    "https://www.linkedin.com/in/farideathan/",
+    "https://huggingface.co/dirafweb"
+  ],
+  "mainEntityOfPage": {
+    "@type": "ProfilePage",
+    "@id": "https://github.com/dirafweb"
+  }
+}
