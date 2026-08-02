@@ -41,6 +41,8 @@ async function actividadReciente() {
   const corte = Date.now() - 60 * 24 * 60 * 60 * 1000
   return (await res.json())
     .filter((r) => !r.fork && !r.archived && new Date(r.pushed_at).getTime() > corte)
+    // el repo del propio perfil no es "trabajo": mencionarlo es ruido
+    .filter((r) => r.name.toLowerCase() !== USER.toLowerCase())
     .slice(0, 6)
     .map((r) => ({
       nombre: r.name,
@@ -71,8 +73,13 @@ async function redactar(repos) {
             '- Máximo 2 frases, en español, tono sobrio y profesional.',
             '- Usa ÚNICAMENTE los repositorios que te doy. No inventes proyectos,',
             '  tecnologías, métricas ni logros.',
+            '- Menciona como mucho 2 repos: los más sustanciales. Ignora el resto.',
+            '- Di QUÉ hace cada uno, con el dato concreto de su descripción.',
             '- Enlaza cada repo mencionado en markdown a https://github.com/' + USER + '/<nombre>.',
             '- Sin emojis, sin superlativos, sin "emocionado de anunciar".',
+            '- PROHIBIDO cerrar con relleno tipo "mi enfoque se centra en soluciones',
+            '  innovadoras". Si no tienes un hecho concreto que añadir, termina antes.',
+            '- No empieces con "Actualmente": el título ya dice "Ahora mismo".',
             '- Devuelve solo el texto final, sin encabezados ni comillas.',
           ].join('\n'),
         },
