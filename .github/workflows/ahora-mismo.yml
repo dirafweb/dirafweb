@@ -1,0 +1,48 @@
+name: Actualizar "Ahora mismo"
+
+# Regenera la sección "Ahora mismo · Currently" del README de perfil
+# resumiendo con OpenAI la actividad pública real de GitHub.
+#
+# Requiere el secreto OPENAI_API_KEY en:
+#   Settings → Secrets and variables → Actions → New repository secret
+
+on:
+  schedule:
+    - cron: '0 12 * * 1' # lunes 12:00 UTC (07:00 en Colombia)
+  workflow_dispatch: # permite ejecutarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ahora-mismo
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerar sección
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: node scripts/ahora-mismo.mjs
+
+      - name: Commit si cambió
+        run: |
+          if [[ -z "$(git status --porcelain README.md)" ]]; then
+            echo "Sin cambios que publicar."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Actualiza sección 'Ahora mismo' desde actividad reciente"
+          git push

@@ -1,8 +1,9 @@
 <h1 align="center">Farid Enrique Jiménez Campo</h1>
 
 <p align="center">
-  <strong>Convierto datos e IA en decisiones inteligentes.</strong><br>
-  <sub><em>I turn data and AI into intelligent decisions.</em></sub>
+  <a href="https://farid.com.co">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=Convierto+datos+e+IA+en+decisiones+inteligentes;I+turn+data+and+AI+into+intelligent+decisions" alt="Convierto datos e IA en decisiones inteligentes">
+  </a>
 </p>
 
 <p align="center">
@@ -30,32 +31,13 @@ Fundador de **[Xentris Tech](https://github.com/xentristech)** (XENTRIS LLC), de
 
 ---
 
-## En qué trabajo · What I do
+## Ahora mismo · Currently
 
-| Área | Qué entrego |
-|---|---|
-| **IA aplicada** | Integración de LLMs, agentes autónomos, RAG y chatbots con contexto de negocio |
-| **Data Science** | Modelado predictivo, análisis exploratorio y dashboards de decisión |
-| **Automatización** | Pipelines end-to-end que eliminan trabajo manual, no que lo disfrazan |
-| **Full Stack** | Producto completo: de la migración de esquema al deploy con HTTPS |
+<!-- AHORA-MISMO:START -->
+Trabajando en el asistente de IA de [farid.com.co](https://farid.com.co) y publicando prácticas reutilizables en [`claude-skills`](https://github.com/xentristech/claude-skills).
+<!-- AHORA-MISMO:END -->
 
----
-
-## El stack · The stack
-
-Organizado por capa, no por moda.
-
-| Capa | Herramientas |
-|---|---|
-| **Orquestación** | LangChain · Make · n8n |
-| **Modelos** | Claude · Gemini · Llama · Mistral · Hugging Face |
-| **ML** | PyTorch · TensorFlow · scikit-learn |
-| **Datos** | Python · pandas · NumPy · MySQL · Prisma |
-| **Producto** | Next.js · React · TypeScript · Tailwind · Vercel |
-| **Infra** | Docker · Caddy · systemd · GitHub Actions · VPS |
-
-> [!NOTE]
-> No colecciono logos. Cada herramienta de esta tabla está en producción en algo que mantengo.
+<sub>Esta sección se regenera sola cada lunes a partir de mi actividad pública real. <a href="https://github.com/dirafweb/dirafweb/blob/main/.github/workflows/ahora-mismo.yml">Cómo funciona</a>.</sub>
 
 ---
 
@@ -81,6 +63,43 @@ Publico las prácticas que uso a diario como **Agent Skills** reutilizables:
 ```bash
 npx skills add https://github.com/xentristech/claude-skills --all -g
 ```
+
+---
+
+<details>
+<summary><strong>En qué trabajo · What I do</strong></summary>
+
+<br>
+
+| Área | Qué entrego |
+|---|---|
+| **IA aplicada** | Integración de LLMs, agentes autónomos, RAG y chatbots con contexto de negocio |
+| **Data Science** | Modelado predictivo, análisis exploratorio y dashboards de decisión |
+| **Automatización** | Pipelines end-to-end que eliminan trabajo manual, no que lo disfrazan |
+| **Full Stack** | Producto completo: de la migración de esquema al deploy con HTTPS |
+
+</details>
+
+<details>
+<summary><strong>El stack · The stack</strong></summary>
+
+<br>
+
+Organizado por capa, no por moda.
+
+| Capa | Herramientas |
+|---|---|
+| **Orquestación** | LangChain · Make · n8n |
+| **Modelos** | Claude · Gemini · Llama · Mistral · Hugging Face |
+| **ML** | PyTorch · TensorFlow · scikit-learn |
+| **Datos** | Python · pandas · NumPy · MySQL · Prisma |
+| **Producto** | Next.js · React · TypeScript · Tailwind · Vercel |
+| **Infra** | Docker · Caddy · systemd · GitHub Actions · VPS |
+
+> [!NOTE]
+> No colecciono logos. Cada herramienta de esta tabla está en producción en algo que mantengo.
+
+</details>
 
 ---
 
