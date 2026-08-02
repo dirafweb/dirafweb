@@ -30,6 +30,22 @@ Fundador de **[Xentris Tech](https://github.com/xentristech)** (XENTRIS LLC), de
 
 ---
 
+## Pregúntame · Ask me
+
+<p align="center">
+  <a href="https://github.com/dirafweb/dirafweb/issues/new?template=pregunta.yml">
+    <img alt="Hazme una pregunta" src="https://img.shields.io/badge/Hazme%20una%20pregunta-0B1120?style=for-the-badge&logo=openai&logoColor=white">
+  </a>
+</p>
+
+Abre una pregunta sobre mi experiencia, mi stack o cualquier proyecto y **mi asistente te responde en segundos**, con datos de [mi perfil público](contexto/perfil.md). Te llega por correo.
+
+No es una demo: es el mismo tipo de agente que construyo para clientes. Pruébalo antes de escribirme.
+
+> *Ask anything about my experience or stack — my assistant replies in seconds. It's the same kind of agent I build for clients.*
+
+---
+
 ## Ahora mismo · Currently
 
 <!-- AHORA-MISMO:START -->

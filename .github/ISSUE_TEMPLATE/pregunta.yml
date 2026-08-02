@@ -1,0 +1,27 @@
+name: Hazme una pregunta
+description: Pregunta sobre mi experiencia, stack o proyectos. Te responde mi asistente de IA en segundos.
+title: '[Pregunta] '
+labels: ['pregunta']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Mi asistente responde con datos de mi perfil público y te avisa por correo.
+        Si necesitas hablar conmigo directamente: **info@farid.com.co**
+
+  - type: textarea
+    id: pregunta
+    attributes:
+      label: Tu pregunta
+      description: En español o inglés.
+      placeholder: '¿Qué experiencia tienes integrando LLMs en producción?'
+    validations:
+      required: true
+
+  - type: input
+    id: contexto
+    attributes:
+      label: ¿Desde dónde preguntas? (opcional)
+      placeholder: 'Reclutadora en una fintech, buscando perfil de AI Engineer'
+    validations:
+      required: false
