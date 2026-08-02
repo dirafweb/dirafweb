@@ -1,9 +1,8 @@
 <h1 align="center">Farid Enrique Jiménez Campo</h1>
 
 <p align="center">
-  <a href="https://farid.com.co">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=Convierto+datos+e+IA+en+decisiones+inteligentes;I+turn+data+and+AI+into+intelligent+decisions" alt="Convierto datos e IA en decisiones inteligentes">
-  </a>
+  <strong>Convierto datos e IA en decisiones inteligentes.</strong><br>
+  <sub><em>I turn data and AI into intelligent decisions.</em></sub>
 </p>
 
 <p align="center">
