@@ -90,27 +90,68 @@ npx skills add https://github.com/xentristech/claude-skills --all -g
 </details>
 
 <details>
-<summary><strong>El stack · The stack</strong></summary>
+<summary><strong>🛠️ &nbsp;El stack · The stack</strong> &nbsp;<sub>— clic para desplegar</sub></summary>
 
 <br>
 
 Organizado por capa, no por moda.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,nextjs,react,ts,tailwind,prisma,mysql,docker,githubactions,vercel,linux&theme=dark" alt="Stack: Python, PyTorch, TensorFlow, scikit-learn, Next.js, React, TypeScript, Tailwind, Prisma, MySQL, Docker, GitHub Actions, Vercel, Linux">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,nextjs,react,ts,tailwind,prisma,mysql,docker,githubactions,vercel,linux&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn, Next.js, React, TypeScript, Tailwind, Prisma, MySQL, Docker, GitHub Actions, Vercel, Linux">
 </p>
 
-| Capa | Herramientas |
-|---|---|
-| **Orquestación** | LangChain · Make · n8n |
-| **Modelos** | Claude · Gemini · Llama · Mistral · Hugging Face |
-| **ML** | PyTorch · TensorFlow · scikit-learn |
-| **Datos** | Python · pandas · NumPy · MySQL · Prisma |
-| **Producto** | Next.js · React · TypeScript · Tailwind · Vercel |
-| **Infra** | Docker · Caddy · systemd · GitHub Actions · VPS |
+#### 🤖 &nbsp;Modelos y orquestación
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0866FF?style=flat-square&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+
+#### 🧠 &nbsp;Machine learning y datos
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+#### 👨‍💻 &nbsp;Lenguajes
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+#### 🧰 &nbsp;Producto
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
+#### ⚙️ &nbsp;Infraestructura y automatización
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 > [!NOTE]
-> No colecciono logos. Cada herramienta de esta tabla está en producción en algo que mantengo.
+> No colecciono logos. Cada herramienta de esta lista está en producción en algo que mantengo.
 
 </details>
 
