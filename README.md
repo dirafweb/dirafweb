@@ -151,8 +151,23 @@ Se le puede contactar por correo en info@farid.com.co, a través de su web https
 
 ¿Tienes datos que no están trabajando para ti? Esa es exactamente la conversación que me interesa.
 
-<p>
-  <a href="https://farid.com.co">farid.com.co</a> ·
-  <a href="mailto:info@farid.com.co">info@farid.com.co</a> ·
-  <a href="https://www.linkedin.com/in/farideathan/">LinkedIn</a>
-</p>
+<table>
+<tr>
+<td valign="middle" align="center">
+
+<a href="https://farid.com.co"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-farid.com.co-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"></a><br>
+<a href="mailto:info@farid.com.co"><img alt="Email" src="https://img.shields.io/badge/Email-info@farid.com.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
+<a href="https://www.linkedin.com/in/farideathan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-farideathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+<a href="https://wa.me/19177645565"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-+1%20917%20764%205565-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a><br>
+<a href="https://huggingface.co/dirafweb"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-dirafweb-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+
+</td>
+<td valign="middle" align="center">
+
+<img alt="Código QR con mi tarjeta de contacto" src="https://raw.githubusercontent.com/dirafweb/dirafweb/main/assets/vcard-qr.svg" width="260">
+
+</td>
+</tr>
+</table>
+
+<sub>Barranquilla, Colombia · Trabajo en remoto · Español &amp; English</sub>
