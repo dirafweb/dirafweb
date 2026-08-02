@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 104" width="620" height="104" role="img" aria-label="Hazme una pregunta — mi asistente de IA te responde en segundos">
+  <defs>
+    <linearGradient id="btnFondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1B2B47"/>
+    </linearGradient>
+
+    <linearGradient id="btnBorde" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <linearGradient id="barrido" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="recorte">
+      <rect x="8" y="8" width="604" height="88" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- halo que late para atraer la mirada -->
+  <rect x="4" y="4" width="612" height="96" rx="20" fill="none" stroke="#38BDF8" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.30;0.02;0.30" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="4;1;4" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="4;1;4" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="612;618;612" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="96;102;96" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="8" y="8" width="604" height="88" rx="16" fill="url(#btnFondo)" stroke="url(#btnBorde)" stroke-width="1.6"/>
+
+  <!-- luz que recorre el boton -->
+  <g clip-path="url(#recorte)">
+    <rect x="-240" y="8" width="240" height="88" fill="url(#barrido)">
+      <animate attributeName="x" values="-240;620" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- indicador "en linea" -->
+  <g transform="translate(44,52)">
+    <circle r="6" fill="#34D399" fill-opacity="0.25">
+      <animate attributeName="r" values="6;14;6" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.35;0;0.35" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="6" fill="#34D399"/>
+  </g>
+
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+    <text x="76" y="47" font-size="24" font-weight="700" fill="#F8FAFC">Hazme una pregunta</text>
+    <text x="76" y="72" font-size="14" fill="#94A3B8">Mi asistente de IA te responde en segundos · Ask me anything</text>
+  </g>
+
+  <!-- flecha que insinua el clic -->
+  <g stroke="#38BDF8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <g>
+      <path d="M552 52h26M568 42l10 10-10 10"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;7 0;0 0" dur="1.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

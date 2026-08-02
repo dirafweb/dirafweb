@@ -26,7 +26,7 @@ Fundador de **[Xentris Tech](https://github.com/xentristech)** (XENTRIS LLC), de
 
 <p align="center">
   <a href="https://github.com/dirafweb/dirafweb/issues/new?template=pregunta.yml">
-    <img alt="Hazme una pregunta" src="https://img.shields.io/badge/Hazme%20una%20pregunta-0B1120?style=for-the-badge&logo=openai&logoColor=white">
+    <img alt="Hazme una pregunta — mi asistente de IA te responde en segundos" src="https://raw.githubusercontent.com/dirafweb/dirafweb/main/assets/boton-pregunta.svg" width="620">
   </a>
 </p>
 
