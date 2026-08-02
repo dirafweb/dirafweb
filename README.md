@@ -34,7 +34,7 @@ Fundador de **[Xentris Tech](https://github.com/xentristech)** (XENTRIS LLC), de
 ## Ahora mismo · Currently
 
 <!-- AHORA-MISMO:START -->
-Trabajando en el asistente de IA de [farid.com.co](https://farid.com.co) y publicando prácticas reutilizables en [`claude-skills`](https://github.com/xentristech/claude-skills).
+Actualmente, estoy trabajando en varios proyectos, incluyendo [dirafweb](https://github.com/dirafweb/dirafweb) y [maykol-web](https://github.com/dirafweb/maykol-web), así como en [carta-viva](https://github.com/dirafweb/carta-viva). Mi enfoque se centra en el desarrollo de soluciones innovadoras en inteligencia artificial y desarrollo web.
 <!-- AHORA-MISMO:END -->
 
 <sub>Esta sección se regenera sola cada lunes a partir de mi actividad pública real. <a href="https://github.com/dirafweb/dirafweb/blob/main/.github/workflows/ahora-mismo.yml">Cómo funciona</a>.</sub>
