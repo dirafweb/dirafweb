@@ -1,13 +1,5 @@
-<h1 align="center">Farid Enrique Jiménez Campo</h1>
-
 <p align="center">
-  <strong>Convierto datos e IA en decisiones inteligentes.</strong><br>
-  <sub><em>I turn data and AI into intelligent decisions.</em></sub>
-</p>
-
-<p align="center">
-  AI Engineer · Data Scientist · Full Stack Developer<br>
-  <sub>Barranquilla, Colombia — construyendo desde LATAM para el mundo</sub>
+  <img src="https://raw.githubusercontent.com/dirafweb/dirafweb/main/assets/banner.svg" alt="Farid Enrique Jiménez Campo — Convierto datos e IA en decisiones inteligentes · AI Engineer, Data Scientist, Full Stack Developer · Barranquilla, Colombia" width="100%">
 </p>
 
 <p align="center">
@@ -101,6 +93,10 @@ npx skills add https://github.com/xentristech/claude-skills --all -g
 <br>
 
 Organizado por capa, no por moda.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,nextjs,react,ts,tailwind,prisma,mysql,docker,githubactions,vercel,linux&theme=dark" alt="Stack: Python, PyTorch, TensorFlow, scikit-learn, Next.js, React, TypeScript, Tailwind, Prisma, MySQL, Docker, GitHub Actions, Vercel, Linux">
+</p>
 
 | Capa | Herramientas |
 |---|---|
