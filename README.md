@@ -43,7 +43,7 @@ No es una demo: es el mismo tipo de agente que construyo para clientes. Pruébal
 ## Ahora mismo · Currently
 
 <!-- AHORA-MISMO:START -->
-Actualmente, estoy trabajando en varios proyectos, incluyendo [dirafweb](https://github.com/dirafweb/dirafweb) y [maykol-web](https://github.com/dirafweb/maykol-web), así como en [carta-viva](https://github.com/dirafweb/carta-viva). Mi enfoque se centra en el desarrollo de soluciones innovadoras en inteligencia artificial y desarrollo web.
+Desarrolla la aplicación [Carta Viva](https://github.com/dirafweb/carta-viva), que ofrece una carta natal astrológica junto con un chat de IA para el autoconocimiento. También trabaja en el repositorio [maykol-web](https://github.com/dirafweb/maykol-web), que está en desarrollo con TypeScript.
 <!-- AHORA-MISMO:END -->
 
 <sub>Esta sección se regenera sola cada lunes a partir de mi actividad pública real. <a href="https://github.com/dirafweb/dirafweb/blob/main/.github/workflows/ahora-mismo.yml">Cómo funciona</a>.</sub>
