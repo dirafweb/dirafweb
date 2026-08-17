@@ -43,7 +43,7 @@ No es una demo: es el mismo tipo de agente que construyo para clientes. Pruébal
 ## Ahora mismo · Currently
 
 <!-- AHORA-MISMO:START -->
-Desarrolla la aplicación "Carta Viva", que ofrece una carta natal astrológica junto con un chat de IA para el autoconocimiento, disponible en [carta-viva](https://github.com/dirafweb/carta-viva). También trabaja en el repositorio [maykol-web](https://github.com/dirafweb/maykol-web), que se encuentra en desarrollo.
+Desarrolla la aplicación [Carta Viva](https://github.com/dirafweb/carta-viva), que ofrece una carta natal astrológica junto con un chat de IA para el autoconocimiento. También trabaja en el repositorio [maykol-web](https://github.com/dirafweb/maykol-web), que está en desarrollo.
 <!-- AHORA-MISMO:END -->
 
 <sub>Esta sección se regenera sola cada lunes a partir de mi actividad pública real. <a href="https://github.com/dirafweb/dirafweb/blob/main/.github/workflows/ahora-mismo.yml">Cómo funciona</a>.</sub>
