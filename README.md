@@ -43,7 +43,7 @@ No es una demo: es el mismo tipo de agente que construyo para clientes. Pruébal
 ## Ahora mismo · Currently
 
 <!-- AHORA-MISMO:START -->
-Desarrolla un sistema de inventario para YOTA Montacargas en el repositorio [inventario-ia](https://github.com/dirafweb/inventario-ia). Además, trabaja en la creación de una carta natal astrológica con chat de IA en [carta-viva](https://github.com/dirafweb/carta-viva).
+Desarrolla el sistema de inventario YOTA Montacargas en el repositorio [inventario-ia](https://github.com/dirafweb/inventario-ia). También trabaja en la aplicación Carta Viva, que ofrece una carta natal astrológica con chat de IA para el autoconocimiento, disponible en [carta-viva](https://github.com/dirafweb/carta-viva).
 <!-- AHORA-MISMO:END -->
 
 <sub>Esta sección se regenera sola cada lunes a partir de mi actividad pública real. <a href="https://github.com/dirafweb/dirafweb/blob/main/.github/workflows/ahora-mismo.yml">Cómo funciona</a>.</sub>
