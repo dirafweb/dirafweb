@@ -43,7 +43,7 @@ No es una demo: es el mismo tipo de agente que construyo para clientes. Pruébal
 ## Ahora mismo · Currently
 
 <!-- AHORA-MISMO:START -->
-Desarrolla [claude-skills](https://github.com/dirafweb/claude-skills), que incluye Agent Skills para Claude Code creados por Xentris Tech, abarcando SEO con IA y despliegue en VPS. También trabaja en [inventario-ia](https://github.com/dirafweb/inventario-ia), un sistema de inventario para YOTA Montacargas.
+Desarrolla habilidades de agente para Claude Code, incluyendo SEO con IA y despliegue en VPS, en el repositorio [claude-skills](https://github.com/dirafweb/claude-skills). Además, trabaja en una landing personal de marca de IA utilizando Next.js y Tailwind en [faridcomco](https://github.com/dirafweb/faridcomco).
 <!-- AHORA-MISMO:END -->
 
 <sub>Esta sección se regenera sola cada lunes a partir de mi actividad pública real. <a href="https://github.com/dirafweb/dirafweb/blob/main/.github/workflows/ahora-mismo.yml">Cómo funciona</a>.</sub>
